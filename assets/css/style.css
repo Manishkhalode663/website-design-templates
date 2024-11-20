@@ -107,7 +107,7 @@ a.active {
 /* herosection  */
 .hero-section {
   width: 100%;  
-  
+  height: fit-content;
   background: url(../images/hero-image.jpg) no-repeat 0 0;
   background-position: center;
   background-size: contain;
